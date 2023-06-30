@@ -2,3 +2,4 @@ mi nombre ruben
 lic en informatica
 46 años
 23 años de esperiecia en desarrollo web
+aprendiendo git 
