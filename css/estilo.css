@@ -7,10 +7,18 @@ h1{
     font-size: larger;
     color: blanchedalmond;
 }
+div{
+    width: 100%;
+    background-color: azure;
+}
 #cabecera{
     background-color: blue;
     font-size:x-large;
     color: azure;
-    
+    width: 80%;
+}
+#cuerpo{
+    width: 80%;
+    background-color: aquamarine;
 
 }
