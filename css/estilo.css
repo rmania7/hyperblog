@@ -22,3 +22,9 @@ div{
     background-color: aquamarine;
 
 }
+#footer{
+    background-color: darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+    width: 80%;
+}
